@@ -1,0 +1,34 @@
+_repo: Divine-Comedy-Longfellow-s-Translation-Hell_1001
+contributor:
+  translator:
+    agent_name: Longfellow, Henry Wadsworth
+    birthdate: 1807
+    deathdate: 1882
+    gutenberg_agent_id: '16'
+    url: http://www.gutenberg.org/2009/agents/16
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+gutenberg_bookshelf: Italy
+gutenberg_issued: '1997-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- '!lcc:PQ'
+- '!lcsh:Epic poetry, Italian -- Translations into English'
+- '!lcsh:Italian poetry -- To 1400 -- Translations into English'
+- '!lcsh:Hell -- Poetry'
+title: Divine Comedy, Longfellow's Translation, Hell
+url: http://www.gutenberg.org/ebooks/1001
