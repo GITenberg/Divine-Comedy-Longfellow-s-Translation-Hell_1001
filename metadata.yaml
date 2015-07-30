@@ -26,9 +26,9 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcc:PQ'
-- '!lcsh:Epic poetry, Italian -- Translations into English'
 - '!lcsh:Italian poetry -- To 1400 -- Translations into English'
 - '!lcsh:Hell -- Poetry'
+- '!lcc:PQ'
+- '!lcsh:Epic poetry, Italian -- Translations into English'
 title: Divine Comedy, Longfellow's Translation, Hell
 url: http://www.gutenberg.org/ebooks/1001
