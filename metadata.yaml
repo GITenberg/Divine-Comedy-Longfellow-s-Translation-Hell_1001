@@ -1,4 +1,5 @@
 _repo: Divine-Comedy-Longfellow-s-Translation-Hell_1001
+_version: 0.0.1
 contributor:
   translator:
     agent_name: Longfellow, Henry Wadsworth
@@ -28,9 +29,10 @@ gutenberg_type: Text
 identifiers:
   gutenberg: '1001'
 language: en
-publisher: Project Gutenberg
-rights: Public domain in the USA.
-rights_url: http://creativecommons.org/about/pdm
+publication_date: '2015-08-01'
+publisher: Recovering the Classics
+rights: CC BY-NC
+rights_url: http://creativecommons.org/licenses/by-nc/4.0/
 subjects:
 - '!lcsh: Epic poetry, Italian -- Translations into English'
 - '!lcsh: Italian poetry -- To 1400 -- Translations into English'
