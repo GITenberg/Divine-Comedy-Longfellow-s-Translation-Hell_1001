@@ -8,12 +8,6 @@ contributor:
     gutenberg_agent_id: '16'
     url: http://www.gutenberg.org/2009/agents/16
     wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
-covers:
-- attribution: None, 2015
-  cover_type: original
-  image_path: cover.jpg
-  rights: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-  rights_url: https://creativecommons.org/licenses/by-nc/4.0/
 creator:
   author:
     agent_name: Dante Alighieri
