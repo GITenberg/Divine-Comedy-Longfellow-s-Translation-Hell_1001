@@ -1,5 +1,5 @@
 _repo: Divine-Comedy-Longfellow-s-Translation-Hell_1001
-_version: 0.0.2
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Longfellow, Henry Wadsworth
@@ -38,5 +38,6 @@ subjects:
 - '!lcsh: Italian poetry -- To 1400 -- Translations into English'
 - '!lcsh: Hell -- Poetry'
 - '!lcc: PQ'
+- GITenberg
 title: Divine Comedy, Longfellow's Translation, Hell
 url: http://www.gutenberg.org/ebooks/1001
