@@ -21,7 +21,7 @@ script:
 - /usr/bin/python asciidoctor-htmlbook/gitberg-machine/machine.py -o . -m metadata.yaml book.html
 - xsltproc -stringparam external.assets.list " " ./HTMLBook/htmlbook-xsl/epub.xsl book.html
 - cp ./HTMLBook/stylesheets/epub/epub.css OEBPS
-- cp cover.jpg OEBPS/cover.jpg
+- if [ -e cover.jpg ]; then cp cover.jpg OEBPS/cover.jpg; fi
 # look for first images directory and one found, copy over to ./OEBPS
 - find . -name images -type d | head -n 1 | xargs -I {} mv {} ./OEBPS/
 - zip -rX book.epub mimetype
